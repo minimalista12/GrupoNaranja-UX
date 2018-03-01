@@ -1,5 +1,96 @@
 # GrupoNaranja-UX
 
 
+## Introducción
+
+Escribir, hablar, pensar o hacer en relación a los millennials es un desafío en sí mismo. Caracterizados como: hiperconectados, narcisistas, endeudados, inestables laboralmente, entre un montón de otras características que pueden o no ser aplicables a los millennials o a otros grupos. Pero quiénes son realmente los millennials, son esos seres malévolos que destruyen corporaciones completas, que odian el sistema en que viven y por ello se segregan de él. 
+
+Es difícil decir con certeza. Nadie parece sacer qué quiere o qué necesitan realmente. Aunque muchos estudios y artículos se han esforzado por hacerlo. El Forbes se ha esforzado por ver aspectos positivos que otros parecen olvidar; en particular, ha señalado, en varios artículos, que este grupo es: 
+
+![Post-it](https://image.ibb.co/nbmYtH/IMG_20180301_122214.jpg)
+
+## El Reto
+Tomando como base el listado anterior pusimos manos a la obra con el reto encomendado. Crear un banco dirigido a los millennials que sea 100% digital y que, al mismo tiempo, cumpliera con todas las indicaciones del reto dado:
+
+![Reto1](https://image.ibb.co/fEndSc/reto_1_banco.png)
+![Reto2](https://image.ibb.co/bP0bDH/reto_2_banco.png)
+
+## Research 
+Dicho esto, pusimos manos a la obra. Nos planteamos no hacer nada, no decidir nada hasta que conversáramos con personas que correspondieran al grupo señalado. Nos enfocamos sobre todo en aspectos como:
+
+FOTO REQUISITOS ENTREVISTAS
+
+Nos guiamos por las indicaciones propuesta por Nielsen (2000), en relación a reconocer como número mágico al 5. Lo que ha sido ampliamente aceptada en el campo de la usabilidad. En este caso, y considerando el escaso tiempo planteado para que una pareja realizará todo el proceso en sólo 4 días, se decidió considerar el 5 como el número de entrevistas mínimas a realizar para conocer el campo.
+Cabe (re)señalar que, además, de las entrevistas a personas de este grupo generacional se dio revisión a parte de la amplia gama de literatura para reforzar los conocimientos sobre los millennials. Se revisaron tópicos sobre: economía, comportamiento, diversión, laboral, etc. (volver a la introducción para revisar más sobre este punto) 
+
+### Research parte 1: resumen entrevistas
+Las entrevistas se realizaron entre el día lunes y el miércoles, en paralelo al proceso de investigación benchmark y a la creación de posibles soluciones. Entre las lecturas sobre los millennials y las respuestas de las entrevistas generamos patrones comunes que nos permitieran acércanos a diseño de solución. 
+En resumen, podemos decir sobre las preguntas y respuestas más relevantes para el proceso de investigación:
+En relación a los sujetos entrevistados
+
+![requisitos](https://image.ibb.co/eBQbDH/REQUISITOS.png)
+
+
+# --> FALTAN LOS RESULTADOS DE LA ENTREVISTA
+
+
+
+### Research parte 2: benchmark
+En paralelo a las entrevistas con nuestros millennials nos dimos a la revisión de qué pasa en el mundo actual. Para ello nos enfocamos en los bancos mencionados en el reto, pero además buscamos información de los llamados “10 bancos digitales más importantes” [http://www.falabelladigital.com/2017/04/12/los-bancos-digitales-mas-importantes/]
+
+![bancosdigitales1]( https://image.ibb.co/cvPsnc/0000_bancos_digitales_m_s_importantes_falabella_digital.png)
+
+Tras revisar la lista, nos dimos cuenta que sólo uno de los bancos del reto se encontraba allí: simple. Entonces, nos lanzamos a la misión de revisar las páginas web de los sitios. Ver cómo se presentan a los (futuros) usuarios y cuál es su propuesta de valor. Además, del detalle de la información específica o cómo responden las preguntas más frecuentes (FAQ’s), qué tan fácil es encontrar esas respuestas.
+
+![bancos](https://image.ibb.co/dso7Lx/bancos_sin_t_tulo.png)
+
+Cabe señalar que todos los bancos de la lista plantean como solución la existencia de una aplicación instalada, lo que requiere que el usuario tenga espacio disponible en su móvil. Esto nos llamó poderosamente la atención, ¿es realmente necesario que se instale el “banco” en mi Smartphone?...
+
+### Prototipos
+Al revisar la información obtenida sacamos algunas conclusiones que nos llevaron a buscar una solución que tomase los dolores de nuestros entrevistados y les diera solución.
+Lo primer que hicimos fue decidir que no haríamos cientos de wireframe, sino que en conjunto trabajaríamos en uno que nos satisficiera y que siguiera las líneas dadas por la investigación. Esto venía a contrariar todas las enseñanzas que hemos recibido, pero dado el tiempo, consideramos que era mejor hacer sólo un diseño para este proyecto. 
+Se consideró que, en esta etapa del reto, no era necesario desarrollar por completo la solución y que, en caso de ser aplicación web o de instalación, no se requiere que todas las pantallas se desarrollaran, sino sólo algunas que permitieran comprender el comportamiento de la aplicación y las nuevas ventajas que ofrecíamos. Al menos las más importantes.
+A partir de ese proyecto se elaboró un user flow: 
+
+![userflow]( https://image.ibb.co/kMwoSc/IMG_20180301_153106.jpg)
+
+En ese momento nos enfrentamos otra vez a la pregunta: ¿Es necesario que se instale?, ¿No existen otras formas?, ¿Qué pasará con los usuarios sin espacio en su Smartphone?
+Nuestra solución, fue investigar y descubrimos que existe la posibilidad de “instalar” enlaces en la pantalla principal del teléfono, algo así como un acceso directo. ¿Qué soluciona esto? Que no se requiera instalación de ningún tipo, se eliminan las posibles incompatibilidades de futuros aparatos. En palabras simples, es un ahorro para nuestro cliente. Sólo necesita una página web responsive que responda a las necesidades básicas de nuestros usuarios. ¡Adiós instalación!
+La siguiente es una muestra de cómo se realiza la creación de un acceso directo en un simple paso, tras acceder a la página que se desea guardar:
+FOTO DE ACCESO DIRECTO
+
+![pantalla-Principal](https://image.ibb.co/bvHOtH/pantalla_principal.png)
+![icono1](https://image.ibb.co/b9BitH/icono_en_pantalla.png)
+
+Luego de ello, nos pusimos manos a la obra y empezamos a armar un prototipo de calidad media, que presentará nuestra propuesta y que, además, permitiera ser testeado con diferentes usuarios. Para ello usamos marvelapp.com, editor en línea y colaborativo que permite a varias personas trabajar en paralelo. 
+Seguimos, en ese proceso, los siguientes pasos:
+
+
+#### Paso 1:
+El más difícil, poco importante en general. Pero infinitamente relevante para nosotras: elegir el nombre de la aplicación. De otro modo, ésta carecería de personalización durante su construcción, testeo, presentación, al menos hasta que encontráramos uno apropiado. 
+La primera elección fue: lemon bank. Pero lo desechamos al descubrir que que existe un banco digital con ese nombre en Brasil. Así que pasamos a nuestra opción dos “Grupo Naranja”, tomando como base el color que compone el nombre para adornar botones y enlaces de la aplicación. Además, le daba un toque fresco, pero amigable a la vista.
+
+#### Paso 2:
+Luego decidimos usar la tipología: Roboto. El porqué es simple: es una tipología propia de los aparatos móviles, definida como “moderna, pero cercana”, pero lo más importante es que funciona en casi todos los sistemas operativos, permitiendo una experiencia similar para el usuario sin importar el lugar de conexión. 
+Además, decidimos utilizar el formato “Android” para la construcción del prototipo, aunque también consideramos al iphone por la importancia tecnológica que éste tiene. Pero nos decantamos por el primero por la cantidad de aparatos existentes en la actualidad.
+Tercero, reforzamos la idea de que ser una aplicación no instalable, sino una web app responsive. Nuestro primer punto de innovación.
+
+#### Paso 3:
+Lo último que nos faltaba antes de transformar nuestro wireframe en un prototipo era fue hacernos de un logo que acompañara la identidad de nuestro producto. Como quisimos hacerlo agradable, la ganadora fue una naranja dibujada y coloreada:
+
+![icon](https://image.ibb.co/kWuQ7c/grupo_orange.png)
+
+#### Paso 4:
+Comenzamos la construcción del prototipo, a cuatro manos. El resultado puede verse en: https://marvelapp.com/391dab3.
+Aunque las primeras pantallas son:
+
+###### Pantalla de inicio del celular (ya creado el acceso directo)
+
+
+
+
+
+
+
 
 
