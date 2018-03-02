@@ -139,3 +139,4 @@ Nos fuimos por las clásicas herramientas de lápiz y papel para tomar notas de 
 Por el tiempo invertido intentando que loop11 nos funcionará, no alcanzamos el mágico número y tuvimos que conformarnos con 3 usuarios. Pero sus indicaciones fueron de mucha ayuda:
 
 
+![estto](https://image.ibb.co/hts8dS/tabla.png)
