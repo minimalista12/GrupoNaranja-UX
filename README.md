@@ -140,3 +140,6 @@ Por el tiempo invertido intentando que loop11 nos funcionará, no alcanzamos el 
 
 
 ![estto](https://image.ibb.co/hts8dS/tabla.png)
+
+
+De momento, sólo podemos señalar que está es una primera aproximación. Nuestro proyecto no está finalizado, ni a nivel ideacional ni a nivel de prototipo. Pronto se vienen más actualizaciones, porque esto es sólo el comienzo...
