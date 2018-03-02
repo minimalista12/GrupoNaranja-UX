@@ -70,10 +70,14 @@ Seguimos, en ese proceso, los siguientes pasos:
 El más difícil, poco importante en general. Pero infinitamente relevante para nosotras: elegir el nombre de la aplicación. De otro modo, ésta carecería de personalización durante su construcción, testeo, presentación, al menos hasta que encontráramos uno apropiado. 
 La primera elección fue: lemon bank. Pero lo desechamos al descubrir que que existe un banco digital con ese nombre en Brasil. Así que pasamos a nuestra opción dos “Grupo Naranja”, tomando como base el color que compone el nombre para adornar botones y enlaces de la aplicación. Además, le daba un toque fresco, pero amigable a la vista.
 
+![tono](https://image.ibb.co/nsNSoS/28ea934324e8b604ff6cf508d2767ff2_color_dorado_su.jpg)
+
 #### Paso 2:
 Luego decidimos usar la tipología: Roboto. El porqué es simple: es una tipología propia de los aparatos móviles, definida como “moderna, pero cercana”, pero lo más importante es que funciona en casi todos los sistemas operativos, permitiendo una experiencia similar para el usuario sin importar el lugar de conexión. 
 Además, decidimos utilizar el formato “Android” para la construcción del prototipo, aunque también consideramos al iphone por la importancia tecnológica que éste tiene. Pero nos decantamos por el primero por la cantidad de aparatos existentes en la actualidad.
 Tercero, reforzamos la idea de que ser una aplicación no instalable, sino una web app responsive. Nuestro primer punto de innovación.
+
+![Roboto](https://image.ibb.co/cJaxoS/Roboto.png)
 
 #### Paso 3:
 Lo último que nos faltaba antes de transformar nuestro wireframe en un prototipo era fue hacernos de un logo que acompañara la identidad de nuestro producto. Como quisimos hacerlo agradable, la ganadora fue una naranja dibujada y coloreada:
@@ -84,10 +88,14 @@ Lo último que nos faltaba antes de transformar nuestro wireframe en un prototip
 Comenzamos la construcción del prototipo, a cuatro manos. El resultado puede verse en: https://marvelapp.com/391dab3.
 Aunque las primeras pantallas son:
 
-###### Pantalla de inicio del celular (ya creado el acceso directo)
+###### Pantalla de inicio del celular (creado previamente el acceso directo desde el navegador)
+![pantatalla inicio](https://image.ibb.co/me22oS/pagina_inicio.png)
 
+###### Primera página de la app: Log In
+![log in](https://image.ibb.co/ha8mF7/log_in.png)
 
-
+###### Punto central de la app: Home
+![home](https://image.ibb.co/gqbHNn/home.png)
 
 
 
