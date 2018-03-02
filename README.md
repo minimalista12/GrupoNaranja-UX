@@ -37,7 +37,6 @@ Los patrones más relevantes que pudimos encontrar son: motivos de usar el banco
 Una de las primeras preguntas fue en relación a porqué tienen cuenta en el banco, qué importancia tiene en sus vidas:
 ![uso de tarjetas](https://image.ibb.co/c3w1yS/entrevistas_1.png)
 
-
 A la pregunta ¿Para qué usos que le da al banco/tarjetas?:
 
 ![uso de tarjetas](https://image.ibb.co/eH7wXn/entrevista_2.png)
@@ -48,7 +47,7 @@ Los dolores y alegrías de la situación actual, en cuanto al uso de las aplicac
 
 El dolor más importante de todos, el pago de comisiones, si bien todos los entrevistados consideran que es justo pagar comisiones para la mantención de la tarjeta y de la cuenta en general, a los entrevistados les gustaría que:
 
-![comisiones] https://image.ibb.co/kcdEJS/entrevista_5.png
+![comisiones](https://image.ibb.co/kcdEJS/entrevista_5.png)
 
 La importancia de la seguridad, al usar aplicaciones bancarias en el celular:
 
@@ -122,7 +121,21 @@ Aunque las primeras pantallas son:
 ![home](https://image.ibb.co/gqbHNn/home.png)
 
 
+#### Paso 4:
+Cuando teníamos el prototipo casi listo nos dimos cuenta de algo, un posible error en la trayectoría, pero que nos hizo detenernos y (re)pensar sobre lo que hacíamos: ¿en qué nos diferenciabamos de lo que hay ahora?; ¿por qué preferirían nuestra aplicación sobre otras?; ¿Por qué los millennials se vendrían a nuestro "banco" o división del banco?...
+Retomamos las entrevistas, las revisamos una y otra vez, hasta que nos dimos cuenta que: primero habíamos resuelto varios dolores actuales: nuestra aplicación carece de ruido visual, es simple, con botones autoexplicativos, no tiene nuevos elementos que puedan confundir ni a los millennials ni a mi abuela al usar la aplicación... ¿qué nos faltaba?
+¡Lo más importante de todo!, no habíamos transmitido nuestra propuesta de valor, aunque la habíamos discutido no nos habíamos detenido a ver cómo compartirla con otros. Eso nos pareció esencial para que se entendierá :
+![propuestadevalor](https://image.ibb.co/mFKodS/valor.png)
 
+#### Paso 5:
+Teniendo nuestra propuesta de valor expresada en palabras que otros pudiesen entender y amar nuestra propuesta tanto como nosotras, nos lanzamos a la misión de probar el prototipo con usuarios. Nos pusimos como meta que lo probarán personas distintas a las entrevistadas en un primer momento... esto es lo que pasó:
 
+###### a) LOOP11.com 
+Fracasamos. Eso resume toda nuestra experiencia con este programa/sitio de testing, no logramos que nos funcionará al momento de hacer las pruebas. Así que recurrimos al plan b.
+
+###### b)Vieja escuela
+Nos fuimos por las clásicas herramientas de lápiz y papel para tomar notas de los que nos decían nuestros testeadores. Esas notas se dividen en: observaciones positivas, observaciones negativas, adicionales.
+
+Por el tiempo invertido intentando que loop11 nos funcionará, no alcanzamos el mágico número y tuvimos que conformarnos con 3 usuarios. Pero sus indicaciones fueron de mucha ayuda:
 
 
