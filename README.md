@@ -31,8 +31,32 @@ En relación a los sujetos entrevistados
 ![requisitos](https://image.ibb.co/eBQbDH/REQUISITOS.png)
 
 
-# --> FALTAN LOS RESULTADOS DE LA ENTREVISTA
+Los patrones más relevantes que pudimos encontrar son: motivos de usar el banco; usos que le dan al banco en lo cotidiano; sobre la aplicación del banco actual: dolores, alegrías, importancia de la seguridad; sobre el pago de comisiones; aplicación ideal. Los resultados son:
 
+
+Una de las primeras preguntas fue en relación a porqué tienen cuenta en el banco, qué importancia tiene en sus vidas:
+![uso de tarjetas](https://image.ibb.co/c3w1yS/entrevistas_1.png)
+
+
+A la pregunta ¿Para qué usos que le da al banco/tarjetas?:
+
+![uso de tarjetas](https://image.ibb.co/eH7wXn/entrevista_2.png)
+
+Los dolores y alegrías de la situación actual, en cuanto al uso de las aplicaciones de sus bancos se resumen en:
+
+![DoloresyAlegrías](https://image.ibb.co/gqUodS/entrevista_3.png)
+
+El dolor más importante de todos, el pago de comisiones, si bien todos los entrevistados consideran que es justo pagar comisiones para la mantención de la tarjeta y de la cuenta en general, a los entrevistados les gustaría que:
+
+![comisiones] https://image.ibb.co/kcdEJS/entrevista_5.png
+
+La importancia de la seguridad, al usar aplicaciones bancarias en el celular:
+
+![seguridad](https://image.ibb.co/m8Os57/entrevista_4.png)
+
+En medio de la conversación les preguntamos: si pudieras rediseñar la aplicación de tu banco, ¿cuál sería la característica principal?
+
+![ideal](https://image.ibb.co/hfwOCn/entrevista_6.png)
 
 
 ### Research parte 2: benchmark
