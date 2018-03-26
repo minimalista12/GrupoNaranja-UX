@@ -149,7 +149,9 @@ De momento, sólo podemos señalar que está es una primera aproximación. Nuest
 
 
 
-Trabajo Colaborativo :Rocio Arriaza & Javiera Garcia 
+
+
+> **Trabajo Colaborativo :** *Rocio Arriaza & Javiera Garcia*
 
 
 
