@@ -3,9 +3,9 @@
 
 ## Introducción
 
-Escribir, hablar, pensar o hacer en relación a los millennials es un desafío en sí mismo. Caracterizados como: hiperconectados, narcisistas, endeudados, inestables laboralmente, entre un montón de otras características que pueden o no ser aplicables a los millennials o a otros grupos. Pero quiénes son realmente los millennials, son esos seres malévolos que destruyen corporaciones completas, que odian el sistema en que viven y por ello se segregan de él. 
+Escribir, hablar, pensar o hacer en relación a los millennials es un desafío en sí mismo. Caracterizados como: hiperconectados, narcisistas, endeudados, inestables laboralmente, entre un montón de otras características que pueden o no ser aplicables a los millennials o a otros grupos. Pero quiénes son realmente los millennials?
 
-Es difícil decir con certeza. Nadie parece sacer qué quiere o qué necesitan realmente. Aunque muchos estudios y artículos se han esforzado por hacerlo. El Forbes se ha esforzado por ver aspectos positivos que otros parecen olvidar; en particular, ha señalado, en varios artículos, que este grupo es: 
+Es difícil decirlo con certeza. Nadie parece saber qué quieren o qué necesitan realmente. Aunque muchos estudios y artículos se han esforzado por hacerlo. El Forbes (de Estados Unidos) se ha esforzado por ver aspectos positivos que otros parecen olvidar; en particular, ha señalado, en varios artículos, que este grupo es: 
 
 ![Post-it](https://image.ibb.co/nbmYtH/IMG_20180301_122214.jpg)
 
@@ -15,8 +15,8 @@ Tomando como base el listado anterior pusimos manos a la obra con el reto encome
 ![Reto1](https://image.ibb.co/fEndSc/reto_1_banco.png)
 ![Reto2](https://image.ibb.co/bP0bDH/reto_2_banco.png)
 
-## Research 
-Dicho esto, pusimos manos a la obra. Nos planteamos no hacer nada, no decidir nada hasta que conversáramos con personas que correspondieran al grupo señalado. Nos enfocamos sobre todo en aspectos como:
+## Research
+Dicho esto, pusimos manos a la obra. Nos planteamos no precipitarnos ni decidir nada hasta que conversáramos con personas que correspondieran al grupo señalado. Nos enfocamos sobre todo en aspectos como:
 
 FOTO REQUISITOS ENTREVISTAS
 
@@ -97,7 +97,7 @@ La primera elección fue: lemon bank. Pero lo desechamos al descubrir que que ex
 
 #### Paso 2:
 Luego decidimos usar la tipología: Roboto. El porqué es simple: es una tipología propia de los aparatos móviles, definida como “moderna, pero cercana”, pero lo más importante es que funciona en casi todos los sistemas operativos, permitiendo una experiencia similar para el usuario sin importar el lugar de conexión. 
-Además, decidimos utilizar el formato “Android” para la construcción del prototipo, aunque también consideramos al iphone por la importancia tecnológica que éste tiene. Pero nos decantamos por el primero por la cantidad de aparatos existentes en la actualidad.
+Además, decidimos utilizar el formato “Android” para la construcción del prototipo, aunque también consideramos al iphone por la importancia tecnológica que éste tiene. Pero nos inclinamos por el primero por la cantidad de aparatos existentes en la actualidad.
 Tercero, reforzamos la idea de que ser una aplicación no instalable, sino una web app responsive. Nuestro primer punto de innovación.
 
 ![Roboto](https://image.ibb.co/cJaxoS/Roboto.png)
@@ -136,10 +136,20 @@ Fracasamos. Eso resume toda nuestra experiencia con este programa/sitio de testi
 ###### b)Vieja escuela
 Nos fuimos por las clásicas herramientas de lápiz y papel para tomar notas de los que nos decían nuestros testeadores. Esas notas se dividen en: observaciones positivas, observaciones negativas, adicionales.
 
-Por el tiempo invertido intentando que loop11 nos funcionará, no alcanzamos el mágico número y tuvimos que conformarnos con 3 usuarios. Pero sus indicaciones fueron de mucha ayuda:
+Por el tiempo invertido intentando que loop11 nos funcionará, no alcanzamos el mágico número y tuvimos que conformarnos con 3 usuarios. Pero sus indicaciones fueron de bastante ayuda:
 
 
 ![estto](https://image.ibb.co/hts8dS/tabla.png)
 
 
-De momento, sólo podemos señalar que está es una primera aproximación. Nuestro proyecto no está finalizado, ni a nivel ideacional ni a nivel de prototipo. Pronto se vienen más actualizaciones, porque **esto es sólo el comienzo...**
+### Conclusiones
+
+De momento, sólo podemos señalar que está es una primera aproximación. Nuestro proyecto no está finalizado, ni en terminos de ideacion ni a nivel de prototipo. Dependiendo de las iteraciones que podamos realizar con los futuros prototipos. Este es solo el comienzo del Grupo Naranja. 
+
+
+
+
+Trabajo Colaborativo :Rocio Arriaza & Javiera Garcia 
+
+
+
